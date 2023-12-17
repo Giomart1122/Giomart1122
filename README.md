@@ -1,6 +1,6 @@
 <h1>Hi, I'm Giovanni! <br/><a href="https://github.com/Giomart1122">Programmer</a>, <a href="https://www.linkedin.com/in/giovanni-martinez-87b9a126/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects and Labs:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
