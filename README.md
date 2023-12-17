@@ -25,7 +25,7 @@
 [<img align="left" alt="Giovanni Martinez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [Email]: gio.a.martinez03@gmail.com
-[linkedin]: http://www.linkedin.com/in/giovanni-martinez-87b9a126
+[linkedin]: http://www.linkedin.com/in/gio-mart
 
 <!--
 
