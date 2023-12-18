@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects and Labs:</h2>
 
 - <b>Filtering a Database using SQL Queries</b>
-  - [Praciting DS & Algos in Python](https://github.com/Giomart1122/Portfolio/blob/main/Apply%20filters%20to%20SQL%20queries%20-%20giovanni%20martinez%2011_23_23.pdf)
+  - [SQL Practice](https://github.com/Giomart1122/Portfolio/blob/main/Apply%20filters%20to%20SQL%20queries%20-%20giovanni%20martinez%2011_23_23.pdf)
 - <b> Hashing With Bash (Data Security and Integrity Practice) </b>
   - [Hasing Practice](https://github.com/Giomart1122/Portfolio/blob/main/Hashing%20with%20Bash%20-%20giovanni%20martinez.pdf) 
 - <b>Null</b>
