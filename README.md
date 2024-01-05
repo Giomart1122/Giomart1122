@@ -6,8 +6,8 @@
   - [SQL Practice](https://github.com/Giomart1122/Portfolio/blob/main/Apply%20filters%20to%20SQL%20queries%20-%20giovanni%20martinez%2011_23_23.pdf)
 - <b> Hashing With Bash (Data Security and Integrity Practice) </b>
   - [Hasing Practice](https://github.com/Giomart1122/Portfolio/blob/main/Hashing%20with%20Bash%20-%20giovanni%20martinez.pdf) 
-- <b>Null</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](null)
+- <b>Analyzing events with Splunk</b>
+  - [Splunk](https://github.com/Giomart1122/Portfolio/blob/main/Splunk%20Activity%20-%20Portfolio%20.pdf)
 - <b>First Incident Report</b>
   - [Incident Report](https://github.com/Giomart1122/Portfolio/blob/main/Incident%20report%20analysis%20-%20giovanni%20martinez.pdf)
 - <b>Python Parsing Practice</b>
