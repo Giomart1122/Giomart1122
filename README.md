@@ -1,4 +1,4 @@
-<h1>Hi, I'm Giovanni! <br/><a href="https://github.com/Giomart1122">Programmer</a>, <a href="https://www.linkedin.com/in/giovanni-martinez-87b9a126/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Giovanni! <br/><a href="https://github.com/Giomart1122">Programmer</a>, <a href="https://www.linkedin.com/in/gio-mart">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects and Labs:</h2>
 
