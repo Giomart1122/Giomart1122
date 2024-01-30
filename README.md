@@ -12,7 +12,8 @@
   - [Incident Report](https://github.com/Giomart1122/Portfolio/blob/main/Incident%20report%20analysis%20-%20giovanni%20martinez.pdf)
 - <b>Python Parsing Practice</b>
   - [Python Parsing with IPv4 Addresses](https://github.com/Giomart1122/Portfolio/blob/main/Python%20File%20Import%20Lab%20-%20portfolio.pdf)
-
+- <b> For-loop Practice in Java </b>
+  - [Generate Pattern Program](https://github.com/Giomart1122/GeneratePattern)
 
 <h2> 🤳 Connect with me:</h2>
 <link
