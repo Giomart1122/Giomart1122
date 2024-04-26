@@ -1,5 +1,5 @@
 <h1>Hi, I'm Giovanni! <br/><a href="https://github.com/Giomart1122">Programmer</a>, <a href="https://www.linkedin.com/in/gio-mart">Cybersecurity Professional</a></h1>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/geomart1122.png" alt="TryHackMe">
 <h2>👨‍💻 Cybersecurity Projects and Labs:</h2>
 
 - <b>Filtering a Database using SQL Queries</b>
