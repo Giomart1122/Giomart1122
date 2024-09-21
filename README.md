@@ -21,7 +21,7 @@
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
 />
 
-[<img align="left" alt="Giovanni Martinez | LinkedIn" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" />][linkedin]
+[<img align="left" alt="Giovanni Martinez | LinkedIn" width="22px" src="https://github.com/linnovate/root-me/blob/master/src/images/icons/linkedin.ico" />][linkedin]
 
 [Email]: gio.a.martinez03@gmail.com
 [linkedin]: http://www.linkedin.com/in/gio-mart
