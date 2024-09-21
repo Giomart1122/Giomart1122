@@ -23,11 +23,12 @@
 
 [<img align="left" alt="Giovanni Martinez | LinkedIn" width="22px" src="https://github.com/linnovate/root-me/blob/master/src/images/icons/linkedin.png" />][linkedin]
 [<img align="left" alt ="Icon" width="62px" height ="22px" src="https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white"/>][Credly]
+[<img align=left alt="TryHackMe" width="92px" height="22px" src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white"/>][TryHackMe]
 
 [Email]: gio.a.martinez03@gmail.com
 [linkedin]: http://www.linkedin.com/in/gio-mart
 [Credly]: https://www.credly.com/users/giovanni-martinez.78da66ae
-
+[TryHackMe]: https://tryhackme.com/p/geomart1122
 <!--
 
 Here are some ideas to get you started:
