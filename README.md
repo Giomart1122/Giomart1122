@@ -26,6 +26,7 @@
 
 [Email]: gio.a.martinez03@gmail.com
 [linkedin]: http://www.linkedin.com/in/gio-mart
+[Credly]: https://www.credly.com/users/giovanni-martinez.78da66ae
 
 <!--
 
