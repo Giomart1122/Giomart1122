@@ -22,7 +22,7 @@
 />
 
 [<img align="left" alt="Giovanni Martinez | LinkedIn" width="22px" src="https://github.com/linnovate/root-me/blob/master/src/images/icons/linkedin.png" />][linkedin]
-[img align="left" alt ="" width="22px" src="https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white"/>][Credly]
+[<img align="left" alt ="" width="22px" src="https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white"/>][Credly]
 
 [Email]: gio.a.martinez03@gmail.com
 [linkedin]: http://www.linkedin.com/in/gio-mart
