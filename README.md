@@ -24,11 +24,13 @@
 [<img align="left" alt="Giovanni Martinez | LinkedIn" width="22px" src="https://github.com/linnovate/root-me/blob/master/src/images/icons/linkedin.png" />][linkedin]
 [<img align="left" alt ="Icon" width="62px" height ="22px" src="https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white"/>][Credly]
 [<img align=left alt="TryHackMe" width="92px" height="22px" src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white"/>][TryHackMe]
+[<img align=left alt="Cybrary" width="42px" height="42px" src="https://cdn6.aptoide.com/imgs/6/9/f/69f7e5b9ae9e3b0b13efd4dc1dca49db_icon.png?w=128"/>][Cybrary]
 
 [Email]: gio.a.martinez03@gmail.com
 [linkedin]: http://www.linkedin.com/in/gio-mart
 [Credly]: https://www.credly.com/users/giovanni-martinez.78da66ae
 [TryHackMe]: https://tryhackme.com/p/geomart1122
+[Cybrary]: https://app.cybrary.it/profile/Giomart1122
 <!--
 
 Here are some ideas to get you started:
